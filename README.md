@@ -1,6 +1,6 @@
 # football-results
 
-## What columns means explained.
+## Columns meaning explained.
 
 ## Example row:  
 
