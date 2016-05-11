@@ -14,4 +14,3 @@ Here all data in sqlite format: all.db
 
 Here all data in csv format: all.csv (Below struture):  
     id, Country, League, A team, B team, Round Number, Url to betexplorer,AWA or None, A score, B score, Date, 1X2Pinnacle[1], 1X2Pinnacle[2], 1X2Pinnacle[3], Asian Handicap(Pinnacle -0.5)[1], Asian Handicap(Pinnacle -0.5)[2], Asian Handicap(Pinnacle 0)[1], Asian Handicap(Pinnacle 0)[1], k1(you can ignore this koeficients), k2(you can ignore this koeficients)
-
